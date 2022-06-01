@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Apple TV Crew Mess" tvg-logo="https://cdn-icons-png.flaticon.com/512/831/831330.png" group-title="",Apple TV Crew Mess
+udp://@239.8.200.1:1234
+#EXTINF:0 tvg-name="Kaleidescape" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Kaleidescape_Logo.png" group-title="",Kaleidescape 04
+udp://@239.8.200.2:1234
+#EXTINF:0 tvg-name="Sky" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2QahyH-IaGSLkkpb8ZVRrtZAMetNZryGEA&usqp=CAU" group-title="",Sky
+udp://@239.8.200.3:1234
+#EXTINF:0 tvg-name="CCTV" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="",CCTV
+udp://@239.8.200.4:1234
